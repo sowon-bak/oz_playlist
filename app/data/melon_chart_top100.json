@@ -1,0 +1,702 @@
+[
+  {
+    "id": 39166708,
+    "rank": 1,
+    "title": "Golden",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 39298775,
+    "rank": 2,
+    "title": "뛰어(JUMP)",
+    "artist": "BLACKPINK",
+    "album": "뛰어(JUMP)"
+  },
+  {
+    "id": 39166705,
+    "rank": 3,
+    "title": "Soda Pop",
+    "artist": "KPop Demon Hunters Cast, Danny Chung, Saja Boys, Andrew Choi, Neckwav, Kevin Woo, samUIL Lee",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 39156202,
+    "rank": 4,
+    "title": "FAMOUS",
+    "artist": "ALLDAY PROJECT",
+    "album": "FAMOUS"
+  },
+  {
+    "id": 36397952,
+    "rank": 5,
+    "title": "Drowning",
+    "artist": "WOODZ",
+    "album": "OO-LI"
+  },
+  {
+    "id": 39566906,
+    "rank": 6,
+    "title": "시작의 아이 ❍",
+    "artist": "박다혜, 마크툽 (MAKTUB)",
+    "album": "시작의 아이 ❍ ハジマリのコ Starting With You : ♡"
+  },
+  {
+    "id": 39121279,
+    "rank": 7,
+    "title": "Dirty Work",
+    "artist": "aespa",
+    "album": "Dirty Work"
+  },
+  {
+    "id": 39693013,
+    "rank": 8,
+    "title": "XOXZ",
+    "artist": "IVE (아이브)",
+    "album": "IVE SECRET"
+  },
+  {
+    "id": 38388023,
+    "rank": 9,
+    "title": "시작의 아이",
+    "artist": "마크툽 (MAKTUB)",
+    "album": "시작의 아이 ハジマリのコ (Starting With You)"
+  },
+  {
+    "id": 38626852,
+    "rank": 10,
+    "title": "너에게 닿기를",
+    "artist": "10CM",
+    "album": "너에게 닿기를"
+  },
+  {
+    "id": 38733032,
+    "rank": 11,
+    "title": "어제보다 슬픈 오늘",
+    "artist": "우디 (Woody)",
+    "album": "어제보다 슬픈 오늘"
+  },
+  {
+    "id": 39166714,
+    "rank": 12,
+    "title": "Your Idol",
+    "artist": "KPop Demon Hunters Cast, Danny Chung, Saja Boys, Andrew Choi, Neckwav, Kevin Woo, samUIL Lee",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 38429074,
+    "rank": 13,
+    "title": "모르시나요(PROD.로코베리)",
+    "artist": "조째즈",
+    "album": "모르시나요"
+  },
+  {
+    "id": 39180051,
+    "rank": 14,
+    "title": "WICKED",
+    "artist": "ALLDAY PROJECT",
+    "album": "FAMOUS"
+  },
+  {
+    "id": 38123332,
+    "rank": 15,
+    "title": "Whiplash",
+    "artist": "aespa",
+    "album": "Whiplash - The 5th Mini Album"
+  },
+  {
+    "id": 38242510,
+    "rank": 16,
+    "title": "HOME SWEET HOME (feat. 태양, 대성)",
+    "artist": "G-DRAGON",
+    "album": "HOME SWEET HOME (feat. 태양, 대성)"
+  },
+  {
+    "id": 38629386,
+    "rank": 17,
+    "title": "like JENNIE",
+    "artist": "제니 (JENNIE)",
+    "album": "Ruby"
+  },
+  {
+    "id": 39430660,
+    "rank": 18,
+    "title": "운명 (2025)",
+    "artist": "먼데이 키즈, 이이경",
+    "album": "먼키의 발자국 Vol.1 With 이이경"
+  },
+  {
+    "id": 34061322,
+    "rank": 19,
+    "title": "사랑은 늘 도망가",
+    "artist": "임영웅",
+    "album": "신사와 아가씨 OST Part.2"
+  },
+  {
+    "id": 38071559,
+    "rank": 20,
+    "title": "청춘만화",
+    "artist": "이무진",
+    "album": "만화 (滿花)"
+  },
+  {
+    "id": 39765727,
+    "rank": 21,
+    "title": "순간을 영원처럼",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39051429,
+    "rank": 22,
+    "title": "Never Ending Story",
+    "artist": "아이유",
+    "album": "꽃갈피 셋"
+  },
+  {
+    "id": 39166703,
+    "rank": 23,
+    "title": "How It’s Done",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 38123338,
+    "rank": 24,
+    "title": "나는 반딧불",
+    "artist": "황가람",
+    "album": "나는 반딧불"
+  },
+  {
+    "id": 37323944,
+    "rank": 25,
+    "title": "HAPPY",
+    "artist": "DAY6 (데이식스)",
+    "album": "Fourever"
+  },
+  {
+    "id": 39116012,
+    "rank": 26,
+    "title": "빌려온 고양이 (Do the Dance)",
+    "artist": "아일릿(ILLIT)",
+    "album": "bomb"
+  },
+  {
+    "id": 38444825,
+    "rank": 27,
+    "title": "REBEL HEART",
+    "artist": "IVE (아이브)",
+    "album": "IVE EMPATHY"
+  },
+  {
+    "id": 38120327,
+    "rank": 28,
+    "title": "APT.",
+    "artist": "로제 (ROSÉ), Bruno Mars",
+    "album": "APT."
+  },
+  {
+    "id": 34908740,
+    "rank": 29,
+    "title": "우리들의 블루스",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "id": 38589554,
+    "rank": 30,
+    "title": "TOO BAD (feat. Anderson .Paak)",
+    "artist": "G-DRAGON",
+    "album": "Übermensch"
+  },
+  {
+    "id": 39161085,
+    "rank": 31,
+    "title": "STYLE",
+    "artist": "Hearts2Hearts (하츠투하츠)",
+    "album": "STYLE"
+  },
+  {
+    "id": 37228861,
+    "rank": 32,
+    "title": "천상연",
+    "artist": "이창섭",
+    "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+  },
+  {
+    "id": 31927275,
+    "rank": 33,
+    "title": "한 페이지가 될 수 있게",
+    "artist": "DAY6 (데이식스)",
+    "album": "The Book of Us : Gravity"
+  },
+  {
+    "id": 38426197,
+    "rank": 34,
+    "title": "오늘만 I LOVE YOU",
+    "artist": "BOYNEXTDOOR",
+    "album": "오늘만 I LOVE YOU"
+  },
+  {
+    "id": 39765725,
+    "rank": 35,
+    "title": "답장을 보낸지",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39765728,
+    "rank": 36,
+    "title": "들꽃이 될게요",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 35008524,
+    "rank": 37,
+    "title": "다시 만날 수 있을까",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "id": 38791775,
+    "rank": 38,
+    "title": "천국보다 아름다운",
+    "artist": "임영웅",
+    "album": "천국보다 아름다운"
+  },
+  {
+    "id": 37390939,
+    "rank": 39,
+    "title": "소나기",
+    "artist": "이클립스 (ECLIPSE)",
+    "album": "선재 업고 튀어 OST Part 1"
+  },
+  {
+    "id": 39765729,
+    "rank": 40,
+    "title": "비가 와서",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 38300904,
+    "rank": 41,
+    "title": "toxic till the end",
+    "artist": "로제 (ROSÉ)",
+    "album": "rosie"
+  },
+  {
+    "id": 39117090,
+    "rank": 42,
+    "title": "눈물참기",
+    "artist": "QWER",
+    "album": "3rd Mini Album '난 네 편이야, 온 세상이 불협일지라도'"
+  },
+  {
+    "id": 39765726,
+    "rank": 43,
+    "title": "ULSSIGU",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39765731,
+    "rank": 44,
+    "title": "그댈 위한 멜로디",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39307948,
+    "rank": 45,
+    "title": "멸종위기사랑",
+    "artist": "이찬혁",
+    "album": "EROS"
+  },
+  {
+    "id": 38104031,
+    "rank": 46,
+    "title": "내게 사랑이 뭐냐고 물어본다면",
+    "artist": "로이킴",
+    "album": "내게 사랑이 뭐냐고 물어본다면"
+  },
+  {
+    "id": 37323943,
+    "rank": 47,
+    "title": "Welcome to the Show",
+    "artist": "DAY6 (데이식스)",
+    "album": "Fourever"
+  },
+  {
+    "id": 37901626,
+    "rank": 48,
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "album": "Die With A Smile"
+  },
+  {
+    "id": 37524037,
+    "rank": 49,
+    "title": "Supernova",
+    "artist": "aespa",
+    "album": "Armageddon - The 1st Album"
+  },
+  {
+    "id": 39765730,
+    "rank": 50,
+    "title": "Wonderful Life",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 38865745,
+    "rank": 51,
+    "title": "HANDS UP",
+    "artist": "MEOVV (미야오)",
+    "album": "MY EYES OPEN VVIDE"
+  },
+  {
+    "id": 39187517,
+    "rank": 52,
+    "title": "LIKE YOU BETTER",
+    "artist": "프로미스나인",
+    "album": "From Our 20's"
+  },
+  {
+    "id": 32061975,
+    "rank": 53,
+    "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+    "artist": "AKMU (악뮤)",
+    "album": "항해"
+  },
+  {
+    "id": 38635449,
+    "rank": 54,
+    "title": "Flower",
+    "artist": "오반(OVAN)",
+    "album": "교회오빠"
+  },
+  {
+    "id": 39765733,
+    "rank": 55,
+    "title": "알겠어요 미안해요",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 30232719,
+    "rank": 56,
+    "title": "예뻤어",
+    "artist": "DAY6 (데이식스)",
+    "album": "Every DAY6 February"
+  },
+  {
+    "id": 38583620,
+    "rank": 57,
+    "title": "MY LOVE(2025)",
+    "artist": "이예은, 아샤트리, 전건호",
+    "album": "MY LOVE(2025)"
+  },
+  {
+    "id": 39765732,
+    "rank": 58,
+    "title": "돌아보지 마세요",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39765734,
+    "rank": 59,
+    "title": "나는야 HERO",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 36699489,
+    "rank": 60,
+    "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+    "artist": "너드커넥션 (Nerd Connection)",
+    "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+  },
+  {
+    "id": 36356993,
+    "rank": 61,
+    "title": "I AM",
+    "artist": "IVE (아이브)",
+    "album": "I've IVE"
+  },
+  {
+    "id": 39765735,
+    "rank": 62,
+    "title": "우리에게 안녕",
+    "artist": "임영웅",
+    "album": "IM HERO 2"
+  },
+  {
+    "id": 39721328,
+    "rank": 63,
+    "title": "한번 더 이별",
+    "artist": "이창섭",
+    "album": "한번 더 이별 (첫사랑 엔딩 X 이창섭)"
+  },
+  {
+    "id": 37140709,
+    "rank": 64,
+    "title": "첫 만남은 계획대로 되지 않아",
+    "artist": "TWS (투어스)",
+    "album": "TWS 1st Mini Album ‘Sparkling Blue’"
+  },
+  {
+    "id": 39170875,
+    "rank": 65,
+    "title": "여름이었다",
+    "artist": "H1-KEY (하이키)",
+    "album": "H1-KEY 4th Mini Album [Lovestruck]"
+  },
+  {
+    "id": 38516958,
+    "rank": 66,
+    "title": "ATTITUDE",
+    "artist": "IVE (아이브)",
+    "album": "IVE EMPATHY"
+  },
+  {
+    "id": 38022274,
+    "rank": 67,
+    "title": "내 이름 맑음",
+    "artist": "QWER",
+    "album": "2nd Mini Album 'Algorithm's Blossom'"
+  },
+  {
+    "id": 35454426,
+    "rank": 68,
+    "title": "Hype Boy",
+    "artist": "NewJeans",
+    "album": "NewJeans 1st EP 'New Jeans'"
+  },
+  {
+    "id": 4446485,
+    "rank": 69,
+    "title": "너의 모든 순간",
+    "artist": "성시경",
+    "album": "별에서 온 그대 OST Part.7"
+  },
+  {
+    "id": 37373234,
+    "rank": 70,
+    "title": "고민중독",
+    "artist": "QWER",
+    "album": "1st Mini Album 'MANITO'"
+  },
+  {
+    "id": 31666417,
+    "rank": 71,
+    "title": "주저하는 연인들을 위해",
+    "artist": "잔나비",
+    "album": "전설"
+  },
+  {
+    "id": 38161297,
+    "rank": 72,
+    "title": "DRIP",
+    "artist": "BABYMONSTER",
+    "album": "DRIP"
+  },
+  {
+    "id": 39166716,
+    "rank": 73,
+    "title": "Free",
+    "artist": "EJAE, KPop Demon Hunters Cast, Andrew Choi, Rumi, Jinu",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 37375706,
+    "rank": 74,
+    "title": "청혼하지 않을 이유를 못 찾았어",
+    "artist": "이무진",
+    "album": "청혼하지 않을 이유를 못 찾았어"
+  },
+  {
+    "id": 37145732,
+    "rank": 75,
+    "title": "Love wins all",
+    "artist": "아이유",
+    "album": "The Winning"
+  },
+  {
+    "id": 38660167,
+    "rank": 76,
+    "title": "HOT",
+    "artist": "LE SSERAFIM (르세라핌)",
+    "album": "HOT"
+  },
+  {
+    "id": 37347911,
+    "rank": 77,
+    "title": "Magnetic",
+    "artist": "아일릿(ILLIT)",
+    "album": "SUPER REAL ME"
+  },
+  {
+    "id": 37069064,
+    "rank": 78,
+    "title": "슬픈 초대장",
+    "artist": "순순희(지환)",
+    "album": "슬픈 초대장"
+  },
+  {
+    "id": 38164895,
+    "rank": 79,
+    "title": "PO￦ER",
+    "artist": "G-DRAGON",
+    "album": "PO￦ER"
+  },
+  {
+    "id": 36617841,
+    "rank": 80,
+    "title": "Seven (feat. Latto) - Clean Ver.",
+    "artist": "정국",
+    "album": "Seven (feat. Latto) - Clean Ver."
+  },
+  {
+    "id": 37563682,
+    "rank": 81,
+    "title": "How Sweet",
+    "artist": "NewJeans",
+    "album": "How Sweet"
+  },
+  {
+    "id": 37884934,
+    "rank": 82,
+    "title": "Supersonic",
+    "artist": "프로미스나인",
+    "album": "Supersonic"
+  },
+  {
+    "id": 39166702,
+    "rank": 83,
+    "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "TWICE (트와이스)",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  },
+  {
+    "id": 38077932,
+    "rank": 84,
+    "title": "UP (KARINA Solo)",
+    "artist": "aespa",
+    "album": "SYNK : PARALLEL LINE - Special Digital Single"
+  },
+  {
+    "id": 34657844,
+    "rank": 85,
+    "title": "사랑인가 봐",
+    "artist": "멜로망스",
+    "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+  },
+  {
+    "id": 30962526,
+    "rank": 86,
+    "title": "모든 날, 모든 순간 (Every day, Every Moment)",
+    "artist": "폴킴",
+    "album": "'키스 먼저 할까요?' OST Part.3"
+  },
+  {
+    "id": 38560939,
+    "rank": 87,
+    "title": "I DO ME",
+    "artist": "KiiiKiii (키키)",
+    "album": "UNCUT GEM"
+  },
+  {
+    "id": 37053556,
+    "rank": 88,
+    "title": "에피소드",
+    "artist": "이무진",
+    "album": "에피소드"
+  },
+  {
+    "id": 33496587,
+    "rank": 89,
+    "title": "다정히 내 이름을 부르면",
+    "artist": "경서예지, 전건호",
+    "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+  },
+  {
+    "id": 37023625,
+    "rank": 90,
+    "title": "비의 랩소디",
+    "artist": "임재현",
+    "album": "비의 랩소디"
+  },
+  {
+    "id": 38855502,
+    "rank": 91,
+    "title": "Pookie",
+    "artist": "FIFTY FIFTY",
+    "album": "Day & Night"
+  },
+  {
+    "id": 39051433,
+    "rank": 92,
+    "title": "네모의 꿈",
+    "artist": "아이유",
+    "album": "꽃갈피 셋"
+  },
+  {
+    "id": 37138469,
+    "rank": 93,
+    "title": "나는 아픈 건 딱 질색이니까",
+    "artist": "i-dle (아이들)",
+    "album": "2"
+  },
+  {
+    "id": 38536472,
+    "rank": 94,
+    "title": "미치게 그리워서",
+    "artist": "황가람",
+    "album": "미치게 그리워서"
+  },
+  {
+    "id": 34451383,
+    "rank": 95,
+    "title": "인사",
+    "artist": "범진",
+    "album": "인사"
+  },
+  {
+    "id": 39040959,
+    "rank": 96,
+    "title": "THUNDER",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 5th Album ‘HAPPY BURSTDAY’"
+  },
+  {
+    "id": 38517300,
+    "rank": 97,
+    "title": "Dash",
+    "artist": "PLAVE",
+    "album": "Caligo Pt.1"
+  },
+  {
+    "id": 36382580,
+    "rank": 98,
+    "title": "헤어지자 말해요",
+    "artist": "박재정",
+    "album": "1집 Alone"
+  },
+  {
+    "id": 38915065,
+    "rank": 99,
+    "title": "그날이 오면",
+    "artist": "투모로우바이투게더",
+    "album": "언젠가는 슬기로울 전공의생활 OST Part 9"
+  },
+  {
+    "id": 39166718,
+    "rank": 100,
+    "title": "What It Sounds Like",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+  }
+]
